@@ -1,10 +1,10 @@
-# 🧠 Fundamentos em Java
+# Fundamentos em Java
 
 Este repositório contém exercícios desenvolvidos como parte do meu aprendizado em **Análise e Desenvolvimento de Sistemas**, com foco nos **fundamentos da linguagem Java**.
 
 Os códigos abordam práticas básicas como entrada de dados, estruturas de decisão, cálculos matemáticos e simulações simples, sempre organizados por tema.
 
-> 🔧 Todos os exercícios foram escritos com base em lógica pura, usando apenas o terminal e a biblioteca `java.util.Scanner`.
+>  Todos os exercícios foram escritos com base em lógica pura, usando apenas o terminal e a biblioteca `java.util.Scanner`.
 
 ---
 
@@ -19,27 +19,27 @@ Os códigos abordam práticas básicas como entrada de dados, estruturas de deci
 
 ---
 
-## 📌 Exemplos incluídos
+## Exemplos incluídos
 
-### 🧮 `Calculadora`
+###  `Calculadora`
 - `CalculadoraSimplesV1.java` → Soma e subtração básicas
 - `CalculadoraSimplesV2.java` → Versão estendida com múltiplas operações
 - `CalculadoraDeIMC.java` → Entrada de peso e altura, cálculo de IMC
 
-### 📆 `Datas`
+###  `Datas`
 - `DiasVividosV1.java` → Calcula dias com base na idade
 - `DiasVividosV2.java` → Versão alternativa com mesma lógica base
 
-### 🧑‍🏫 `Média`
+###  `Média`
 - `CalculoDeMedia.java` → Entrada de notas, cálculo e exibição da média
 
-### 🏥 `Simulações`
+###  `Simulações`
 - `AtendimentoClinicaMedica.java` → Coleta de dados de um paciente fictício
 - `AcessoAoBanco.java` → Simulação de acesso com validação de senha
 
 ---
 
-## 🚀 Como executar os códigos
+## Como executar os códigos
 
 > Todos os arquivos podem ser compilados com o `javac` e executados com o `java` via terminal.
 
