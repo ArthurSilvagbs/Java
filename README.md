@@ -1,8 +1,8 @@
 # ☕ Jornada de Aprendizado em Java
 
-Este repositório reúne os códigos, exercícios e projetos práticos desenvolvidos ao longo da minha trajetória como estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Java**.
+Este repositório reúne os códigos, exercícios e projetos práticos desenvolvidos ao longo da minha trajetória estudando **Java**.
 
-A cada semana, novas pastas são adicionadas com conteúdos organizados por tema e nível de complexidade. O objetivo é registrar minha evolução de forma clara, estruturada e útil — tanto para recrutadores quanto para meu próprio acompanhamento.
+A cada semana, novas pastas são adicionadas com conteúdos organizados por tema e nível de complexidade. O objetivo é registrar minha evolução de forma clara e estruturada — tanto para recrutadores quanto para meu próprio acompanhamento.
 
 ---
 
@@ -17,9 +17,9 @@ A cada semana, novas pastas são adicionadas com conteúdos organizados por tema
 
 ## ✅ Objetivos do Repositório
 
-- Praticar e consolidar conhecimentos em Java puro
+- Praticar e consolidar conhecimentos em Java
 - Aplicar boas práticas desde os primeiros exercícios
-- Criar um histórico visível de progresso e dedicação
+- Criar um histórico visível de progresso
 - Construir uma base sólida para projetos maiores no futuro
 
 ---
@@ -36,12 +36,12 @@ A cada semana, novas pastas são adicionadas com conteúdos organizados por tema
 
 ## 📌 Como acompanhar
 
-Cada pasta contém um `README.md` específico explicando os exercícios ou projetos incluídos, com instruções de execução e descrição dos aprendizados.
+Cada pasta contém um `README.md` específico explicando os exercícios ou projetos incluídos.
 
 Este arquivo será atualizado semanalmente com os novos conteúdos e avanços 📈
 
 ---
 
-🧑‍💻 Desenvolvido por [Arthur Gabriel](https://www.linkedin.com/in/arthur-gabriel-borges-silva)  
+🧑‍💻 Desenvolvido por [Arthur Gabriel]  
 📫 Contato: [arthur.gbs.dev@gmail.com](mailto:arthur.gbs.dev@gmail.com)
 
