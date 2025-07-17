@@ -1,4 +1,4 @@
-# ☕ Jornada de Aprendizado em Java
+#  Jornada de Aprendizado em Java
 
 Este repositório reúne os códigos, exercícios e projetos práticos desenvolvidos ao longo da minha trajetória estudando **Java**.
 
@@ -6,7 +6,7 @@ A cada semana, novas pastas são adicionadas com conteúdos organizados por tema
 
 ---
 
-## 🗂️ Estrutura Geral
+##  Estrutura Geral
 
 | Semana | Pasta                    | Conteúdo Principal                                       |
 |--------|--------------------------|-----------------------------------------------------------|
@@ -15,7 +15,7 @@ A cada semana, novas pastas são adicionadas com conteúdos organizados por tema
 
 ---
 
-## ✅ Objetivos do Repositório
+##  Objetivos do Repositório
 
 - Praticar e consolidar conhecimentos em Java
 - Aplicar boas práticas desde os primeiros exercícios
@@ -24,7 +24,7 @@ A cada semana, novas pastas são adicionadas com conteúdos organizados por tema
 
 ---
 
-## 📚 Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 - Java (JDK 17+)
 - IDEs: IntelliJ, VS Code ou similares
@@ -34,7 +34,7 @@ A cada semana, novas pastas são adicionadas com conteúdos organizados por tema
 
 ---
 
-## 📌 Como acompanhar
+##  Como acompanhar
 
 Cada pasta contém um `README.md` específico explicando os exercícios ou projetos incluídos.
 
