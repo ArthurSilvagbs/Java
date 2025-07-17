@@ -36,7 +36,10 @@ Os códigos abordam práticas básicas como entrada de dados, estruturas de deci
 ###  `Simulações`
 - `AtendimentoClinicaMedica.java` → Coleta de dados de um paciente fictício
 - `AcessoAoBanco.java` → Simulação de acesso com validação de senha
-- `OrcamentoReformas.java` → Simulação o calculo do preço de um serviço de reforma, referente a determinado tipo e categoria de serviço
+- `OrcamentoReformas.java` → Cálculo do orçamento de reforma baseado em tipo e categoria de serviço
+- `ContaRestaurante.java` → Cálculo do orçamento de reforma baseado em tipo e categoria de serviço
+- `DoacaoDeSangue.java` → Verificação de elegibilidade para doação com base em idade e condições de saúde
+- `NotasComBonus.java` → Cálculo de nota final considerando nota base e aplicação de bônus condicional
 
 ---
 
