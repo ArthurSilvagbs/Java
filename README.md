@@ -1,6 +1,6 @@
 # Fundamentos em Java
 
-Este repositório contém exercícios desenvolvidos como parte do meu aprendizado em **Análise e Desenvolvimento de Sistemas**, com foco nos **fundamentos da linguagem Java**.
+Este repositório contém exercícios desenvolvidos com base nos meu estudos da linguagem Java, com foco nos **fundamentos da linguagem Java**.
 
 Os códigos abordam práticas básicas como entrada de dados, estruturas de decisão, cálculos matemáticos e simulações simples, sempre organizados por tema.
 
