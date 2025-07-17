@@ -15,7 +15,7 @@ Os códigos abordam práticas básicas como entrada de dados, estruturas de deci
 | `Calculadora`   | Operações matemáticas básicas e cálculo de IMC                  |
 | `Datas`         | Cálculo de idade e dias vividos                                 |
 | `Média`         | Cálculo de média aritmética simples                             |
-| `Simulações`    | Simulação de atendimento clínico e verificação de acesso bancário |
+| `Simulações`    | Simulação de situações simples de diferentes contextos          |
 
 ---
 
