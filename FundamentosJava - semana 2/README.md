@@ -1,4 +1,4 @@
-# 📘 Semana 2 — Fundamentos em Java
+# Semana 2 — Fundamentos em Java
 
 Esta pasta reúne os exercícios desenvolvidos durante a segunda semana estudando **Java**, com foco em:
 
@@ -10,7 +10,7 @@ Esta pasta reúne os exercícios desenvolvidos durante a segunda semana estudand
 
 ---
 
-## 📂 Organização dos exercícios
+## Organização dos exercícios
 
 | Categoria       | Descrição                                                   |
 |----------------|-------------------------------------------------------------|
@@ -20,9 +20,9 @@ Esta pasta reúne os exercícios desenvolvidos durante a segunda semana estudand
 
 ---
 
-## 📌 Exercícios incluídos
+## Exercícios incluídos
 
-### 🧠 `Condicionais`
+### 1 - `Condicionais`
 - `ValidacaoDeSenha.java` → Verifica se a senha informada é válida  
 - `SenhaComTentativasLimitadas.java` → Permite número limitado de tentativas de senha  
 - `ConfirmaçãoDeSaida.java` → Confirma se o usuário deseja continuar ou sair  
@@ -31,7 +31,7 @@ Esta pasta reúne os exercícios desenvolvidos durante a segunda semana estudand
 
 ---
 
-### 🔁 `Repeticao`
+### 2 - `Repeticao`
 - `ContadorDeNumero.java` → Contagem simples até número fixo  
 - `ContadorDe1aN.java` → Conta de 1 até o número que o usuário informar  
 - `SomandoAteDigitar0.java` → Soma números até o usuário digitar 0  
@@ -39,7 +39,7 @@ Esta pasta reúne os exercícios desenvolvidos durante a segunda semana estudand
 
 ---
 
-### 💼 `Projetos`
+### 3 - `Projetos`
 - `CalculadoraInterativa.java` → Calculadora com loop e opção de continuar operando  
 - `CaixaDeCompras.java` → Simula caixa simples com soma de produtos  
 - `CaixaDeSuperMercado.java` → Caixa com entrada de produtos e menu de controle  
@@ -47,7 +47,7 @@ Esta pasta reúne os exercícios desenvolvidos durante a segunda semana estudand
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 Todos os arquivos podem ser compilados e executados via terminal:
 
