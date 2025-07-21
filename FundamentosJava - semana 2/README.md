@@ -1,6 +1,6 @@
 # 📘 Semana 2 — Fundamentos em Java
 
-Esta pasta reúne os exercícios desenvolvidos durante a segunda semana da minha jornada de aprendizado em **Java**, com foco em:
+Esta pasta reúne os exercícios desenvolvidos durante a segunda semana estudando **Java**, com foco em:
 
 - Estruturas condicionais (if / else / switch)
 - Laços de repetição (while / do-while / for)
