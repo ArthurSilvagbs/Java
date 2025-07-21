@@ -1,4 +1,4 @@
-#  Jornada de Aprendizado em Java
+# Java
 
 Este repositório reúne os códigos, exercícios e projetos práticos desenvolvidos ao longo da minha trajetória estudando **Java**.
 
