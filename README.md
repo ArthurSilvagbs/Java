@@ -12,6 +12,7 @@ A cada semana, novas pastas são adicionadas com conteúdos organizados por tema
 |--------|--------------------------|-----------------------------------------------------------|
 | 1      | `FundamentosJava/`      | Lógica básica, entrada de dados, simulações simples            |
 | 2      | `FundamentosJava - semana 2/`      | Condicionais aninhadas, estrutura de repetição, aprimoramentos |
+| 3      | `FundamentosJava - semana 3/`      | Estrutura de repetição For |
 
 ---
 
