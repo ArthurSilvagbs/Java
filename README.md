@@ -2,7 +2,7 @@
 
 Este repositório reúne os códigos, exercícios e projetos práticos desenvolvidos ao longo da minha trajetória estudando **Java**.
 
-A cada semana, novas pastas são adicionadas com conteúdos organizados por tema e nível de complexidade. O objetivo é registrar minha evolução de forma clara e estruturada — tanto para recrutadores quanto para meu próprio acompanhamento.
+A cada semana, novas pastas são adicionadas com conteúdos organizados por tema e nível de complexidade. O objetivo é registrar minha evolução — tanto para recrutadores quanto para meu próprio acompanhamento.
 
 ---
 
