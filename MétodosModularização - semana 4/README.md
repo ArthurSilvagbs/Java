@@ -62,10 +62,6 @@ Todos os exercícios foram desenvolvidos com **entrada via terminal (Scanner)**,
 
 ### `Simulacoes-Praticas`
 - `OrcamentoDeEventoComunitario.java` → Orçamento com itens, impostos e relatório final formatado  
-- `SimuladorDeEstacionamentoRotativo.java` → Cálculo de tarifas, franquias, blocos e multas por período  
-- `RelatorioDeHabitos.java` → Relatório de atividades diárias com totais, médias truncadas e classificação  
-- `ConversorDeUnidadesInteligente.java` → Showcase de **overloading** com várias conversões (km↔mi, °C↔°F, kg↔lb)  
-- `RestauranteSelfService.java` → Caixa de restaurante com descontos por faixa, imposto e fechamento de contas  
 
 ---
 
