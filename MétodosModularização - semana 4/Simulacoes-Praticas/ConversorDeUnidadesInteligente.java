@@ -8,7 +8,6 @@ public class ConversorDeUnidadesInteligente {
         int opcao = lerOpcao(sc);
         double valor = lerValor(sc);
 
-        // Conversão com sobrecarga
         double resultado = 0;
         String relatorio = "";
 
@@ -56,8 +55,6 @@ public class ConversorDeUnidadesInteligente {
         return valor;
     }
 
-    // ----------- MÉTODOS SOBRECARGA -----------------
-
     public static double converter(double km) {
         return km * 0.621371; // km → mi
     }
@@ -69,8 +66,6 @@ public class ConversorDeUnidadesInteligente {
     public static double converter(double kg, int dummy) {
         return kg * 2.20462; // kg → lb
     }
-
-    // ----------- RELATÓRIO -----------------
 
     public static String relatorioFinal(int opcao, double valor, double resultado) {
         String entradaRotulo = "";
@@ -95,3 +90,4 @@ public class ConversorDeUnidadesInteligente {
                 conversao, valor, entradaRotulo, resultado, resultadoRotulo);
     }
 }
+
