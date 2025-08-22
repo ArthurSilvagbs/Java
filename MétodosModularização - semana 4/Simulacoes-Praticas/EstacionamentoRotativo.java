@@ -7,25 +7,15 @@ public class EstacionamentoRotativo {
         Scanner sc = new Scanner(System.in);
 
         String placa = receberPlaca(sc);
-
         int opcao = receberOpcaoMenu(sc);
-
         int minutosEstacionados = receberMinutosEstacionados(sc);
-
         int minutosCobrados = calcularMinutosCobrados(minutosEstacionados);
-        
         int blocos = calcularBlocos(minutosCobrados);
-
         double precoCobrado = calcularSubtotal(blocos, opcao);
-
         double precoPorBloco = precoPorBloco(opcao);
-
         String periodo = verificarPeriodo(opcao);
-
         double subtotal = calcularSubtotal(blocos, opcao);
-
         double total = calcularTotal(precoCobrado);
-
         System.out.print(relatorio(placa, periodo, minutosEstacionados, minutosCobrados, blocos, precoPorBloco, subtotal, total));
 
         sc.close();
@@ -153,5 +143,6 @@ public class EstacionamentoRotativo {
     }
 
 }
+
 
 
