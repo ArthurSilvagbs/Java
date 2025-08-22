@@ -63,6 +63,7 @@ Todos os exercícios foram desenvolvidos com **entrada via terminal (Scanner)**,
 ### `Simulacoes-Praticas`
 - `OrcamentoDeEventoComunitario.java` → Orçamento com itens, impostos e relatório final formatado
 - `ConversorDeUnidadesInteligente.java` → Conversão de km→mi, °C→°F e kg→lb com validações, métodos sobrecarregados e relatório formatado
+- `EstacionamentoRotativo.java` → Calculo do valor de estacionamendo rotativo, métodos sobrecarregados e relatório formatado
 
 ---
 
