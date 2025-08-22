@@ -28,8 +28,6 @@ public class EstacionamentoRotativo {
 
         System.out.print(relatorio(placa, periodo, minutosEstacionados, minutosCobrados, blocos, precoPorBloco, subtotal, total));
 
-        //placa, periodo, minutos, franquia, minutosCobrados, blocos, precoPorBloco, subtotal, total
-
         sc.close();
     }
 
@@ -155,4 +153,5 @@ public class EstacionamentoRotativo {
     }
 
 }
+
 
