@@ -15,6 +15,7 @@ A cada semana, novas pastas são adicionadas com conteúdos organizados por tema
 | 3      | `FundamentosJava - semana 3/`      | Estrutura de repetição for, duas variáveis, escopo de loop |
 | 4      | `MétodosModularização - semana 4/`      | Declaração de métodos, parâmetros, retorno, sobrecarga |
 | 5      | `StringsWrappers - semana 5/`      | String, StringBuilder, tipos de Wrappers |
+| 6      | `SwitchCase e Exceções - semana 6/`      | Switch Case, Exceções |
 
 ---
 
